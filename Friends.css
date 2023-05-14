@@ -1,0 +1,70 @@
+
+
+.nevigation{
+    border-radius: 0px;
+ text-decoration: none;
+    background-color: #e6dbba;
+    color: black;
+    padding: 10px;
+    margin-left: -1px;
+}
+.nevigation:hover{
+ background-color: #c9abbb;
+}
+
+
+
+
+
+
+.people{border: 2px solid #8c6e20;
+border-radius: 2px}
+
+.title{
+	font-size: 3em;
+	font-family: Urbanist;
+text-shadow:9px 9px 3px grey;}
+
+img{border: 3px dashed brown;
+border-radius: 30px}
+
+
+body{background-image:url(https://totalwallcovering.com/images/product/vertical-silk-uzcu-l.jpg);
+background-repeat: no repeat;}
+
+p{font-family: Nunito;
+font-size: 30px;}
+
+table,th,td{
+	font-family: Playfair Display;
+	border: 2px solid black;
+	border-collapse: collapse;
+	text-align: center;
+	font-size: 30px;
+}
+
+table{width: 50%}
+#table th{ background-color: #8c846b; }
+
+.blue{background: #e6dbba}
+
+th:hover{
+	color: white;
+}
+
+td:hover{
+	background-color: white;
+	color: black;
+}
+
+#table2 th{ background-color: #8c846b; }
+#table2{background-image: linear-gradient(rgba(255,255,255,0), rgba(255,255,255,0.8));}
+
+.co{float: left;
+width: 50%; }
+.row{margin-left: 100px;}
+
+
+
+
+
